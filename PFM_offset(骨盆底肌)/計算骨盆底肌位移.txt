@@ -1,0 +1,9 @@
+影像處理方式
+匯入影像->影像進行 二值化(Binarization)>銳化(Edge crispening)>放鬆骨盆底肌的影像與夾緊骨盆底肌的影像疊合->人工座標點->計算影像距離並除以影像座標->將OFFSET數值印在處理好之影像上
+
+成功跑出之清晰影像:
+PSpelvic_PFM_offset
+HL_PFM_offset
+XC_PFM_offset
+LXin_PFM_offset
+此四個檔案
